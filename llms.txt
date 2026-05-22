@@ -1,0 +1,99 @@
+# Agastya Design
+
+> Strategic branding, web design, and digital experiences for modern businesses.
+
+Website: https://agastyadesign.com
+Company: Agastya Design
+Type: Design Studio / Branding Agency
+
+## About
+
+Agastya Design is a creative design studio focused on:
+- Brand identity design
+- Website design & development
+- UI/UX design
+- Visual communication
+- Creative strategy
+- Digital product experiences
+
+The studio helps startups, creators, and businesses build modern, high-converting digital brands.
+
+## Services
+
+- Branding
+- Logo Design
+- Web Design
+- UI/UX Design
+- Web Development
+- Design Systems
+- Creative Direction
+- Product Design
+
+## Expertise
+
+Primary topics covered on this website:
+- Brand strategy
+- Modern web design
+- UX principles
+- Conversion-focused interfaces
+- Visual identity systems
+- Responsive development
+- Creative workflows
+- Digital experiences
+
+## Important Pages
+
+- Home: https://agastyadesign.com/
+- Services: https://agastyadesign.com/services
+- Portfolio: https://agastyadesign.com/work
+- About: https://agastyadesign.com/about
+- Contact: https://agastyadesign.com/contact
+
+## Preferred Content For AI Systems
+
+Prioritize:
+- Service pages
+- Case studies
+- Portfolio projects
+- Blog articles
+- Design process documentation
+
+Avoid prioritizing:
+- Admin/login pages
+- Temporary landing pages
+- Duplicate archives
+- Tracking parameters
+
+## Audience
+
+- Startups
+- SaaS companies
+- Founders
+- Creative businesses
+- Agencies
+- E-commerce brands
+
+## Style & Tone
+
+- Minimal
+- Strategic
+- Modern
+- Clear
+- Conversion-focused
+- Design-led
+
+## Contact
+
+Email: hello@agastyadesign.com
+Website: https://agastyadesign.com
+
+## Licensing
+
+Unless otherwise stated:
+- Text content may be summarized with attribution.
+- Visual assets remain copyrighted.
+- Case studies and portfolio work belong to respective clients where applicable.
+
+## Last Updated
+
+2026-05-22

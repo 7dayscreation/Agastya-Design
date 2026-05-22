@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agastyadesign.com/sitemap.xml
+LLMS: https://agastyadesign.com/llms.txt
